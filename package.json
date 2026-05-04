@@ -62,16 +62,16 @@
     "freeice": "^2.1.2",
     "hark": "^1.0.0",
     "inherits": "^2.0.0",
-    "merge": "^1.2.0",
+    "merge": "^2.1.1",
     "sdp-translator": "^0.1.15",
     "ua-parser-js": "^0.7.7",
-    "uuid": "^3.0.0"
+    "uuid": "^14.0.0"
   },
   "devDependencies": {
     "bower": "^1.0.0",
     "browserify": "^16.0.0",
     "browserify-optional": "^1.0.0",
-    "chromedriver": "74.0.0",
+    "chromedriver": "119.0.1",
     "coveralls": "^3.0.0",
     "fs-extra": "^0.30.0",
     "grunt": "^1.0.0",
@@ -91,7 +91,7 @@
     "qunit-reporter-lcov": "^1.0.2",
     "qunitjs": "^1.23.1",
     "selenium-webdriver": "2.53.2",
-    "xml2js": "^0.4.9"
+    "xml2js": "^0.6.2"
   },
   "optionalDependencies": {
     "kurento-browser-extensions": "*"
